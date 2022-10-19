@@ -1,7 +1,7 @@
 <template>
   <div class="user-card">
-    <img src="">
-    <h6></h6>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Circle-icons-profile.svg/2048px-Circle-icons-profile.svg.png">
+    <h6> Test Name</h6>
   </div>
 </template>
 
